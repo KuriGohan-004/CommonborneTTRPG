@@ -1,0 +1,19 @@
+{
+  "name": "commonborne",
+  "title": "Commonborne TTRPG",
+  "description": "Custom rules for the Commonborne TTRPG.",
+  "version": "0.1.0",
+  "author": "Kuri_Kame",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "esmodules": ["scripts/commonborne.js"],
+  "styles": ["styles/commonborne.css"],
+  "systemClass": "game.commonborne",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
