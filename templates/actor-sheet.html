@@ -1,0 +1,18 @@
+<form class="sheet actor">
+  <header>
+    <h1>{{name}}</h1>
+  </header>
+
+  <section class="attributes">
+    <div>HP: {{data.hp.value}} / {{data.hp.max}}</div>
+  </section>
+
+  <section class="items">
+    <h2>Items</h2>
+    <ul>
+      {{#each items}}
+        <li>{{name}} ({{type}})</li>
+      {{/each}}
+    </ul>
+  </section>
+</form>
