@@ -6,7 +6,7 @@
   "author": "Your Name",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "13",
-  "download": "https://github.com/KuriGohan-004/CommonborneTTRPG/archive/refs/heads/main.zip",
+  "download": "https://github.com/KuriGohan-004/CommonborneTTRPG/archive/refs/tags/V0.1.0.zip",
   "manifest": "https://raw.githubusercontent.com/KuriGohan-004/CommonborneTTRPG/main/system.json",
   "url": "https://github.com/KuriGohan-004/CommonborneTTRPG"
 }
