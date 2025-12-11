@@ -1,0 +1,12 @@
+{
+  "name": "commonborne",
+  "title": "Commonborne TTRPG",
+  "description": "A custom TTRPG system called Commonborne.",
+  "version": "0.1.0",
+  "author": "Your Name",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "download": "https://github.com/KuriGohan-004/CommonborneTTRPG//releases/download/v0.1.0/commonborne.zip",
+  "manifest": "https://raw.githubusercontent.com/KuriGohan-004/CommonborneTTRPG/main/system.json",
+  "url": "https://github.com/<your-username>/commonborne"
+}
