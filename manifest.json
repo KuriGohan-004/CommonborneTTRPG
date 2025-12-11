@@ -4,7 +4,7 @@
   "description": "A custom TTRPG system called Commonborne.",
   "version": "0.1.0",
   "author": "Your Name",
-  "minimumCoreVersion": "13",
+  "minimumCoreVersion": "11",
   "compatibleCoreVersion": "13",
   "download": "https://github.com/KuriGohan-004/CommonborneTTRPG/archive/refs/heads/main.zip",
   "manifest": "https://raw.githubusercontent.com/KuriGohan-004/CommonborneTTRPG/main/system.json",
